@@ -1,0 +1,5 @@
+﻿  partition-equal-subset-sum.cpp
+g:\git\algorithm\动态规划\06-416-分割等和子集\06-416-分割等和子集\partition-equal-subset-sum.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+g:\git\algorithm\动态规划\06-416-分割等和子集\06-416-分割等和子集\partition-equal-subset-sum.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  06-416-分割等和子集.vcxproj -> G:\Git\Algorithm\动态规划\06-416-分割等和子集\Debug\06-416-分割等和子集.exe
+  06-416-分割等和子集.vcxproj -> G:\Git\Algorithm\动态规划\06-416-分割等和子集\Debug\06-416-分割等和子集.pdb (Partial PDB)
