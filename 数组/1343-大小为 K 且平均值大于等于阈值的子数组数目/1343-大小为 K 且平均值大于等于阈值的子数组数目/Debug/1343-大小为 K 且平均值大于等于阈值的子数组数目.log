@@ -1,0 +1,5 @@
+﻿  numOfSubarrays.cpp
+g:\git\algorithm\数组\1343-大小为 k 且平均值大于等于阈值的子数组数目\1343-大小为 k 且平均值大于等于阈值的子数组数目\numofsubarrays.cpp(7): warning C4018: “>”: 有符号/无符号不匹配
+g:\git\algorithm\数组\1343-大小为 k 且平均值大于等于阈值的子数组数目\1343-大小为 k 且平均值大于等于阈值的子数组数目\numofsubarrays.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  1343-大小为 K 且平均值大于等于阈值的子数组数目.vcxproj -> G:\Git\Algorithm\数组\1343-大小为 K 且平均值大于等于阈值的子数组数目\Debug\1343-大小为 K 且平均值大于等于阈值的子数组数目.exe
+  1343-大小为 K 且平均值大于等于阈值的子数组数目.vcxproj -> G:\Git\Algorithm\数组\1343-大小为 K 且平均值大于等于阈值的子数组数目\Debug\1343-大小为 K 且平均值大于等于阈值的子数组数目.pdb (Partial PDB)
